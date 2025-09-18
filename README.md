@@ -1,1 +1,1 @@
-# Keras_Series_Assignments
+# Resolution of Exercise: Keras_Series_Assignments
